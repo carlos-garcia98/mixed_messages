@@ -13,7 +13,7 @@ This is a project for the Codecademy's Full-Stack Engineer Career Path.
 - JavaScript - (ES6).
 - Node.js - 14.17.5
 
-## Screnshots.
+## Screenshots.
 
 ![Program Output](./img/mixed_messages_output.png "Program output")
 
