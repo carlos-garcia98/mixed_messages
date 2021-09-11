@@ -51,3 +51,15 @@ let chooseMessageOptions = (obj) => {
     }
     return messagePieces;
 }
+
+chooseMessageOptions(message);
+
+let planBuilder = (messageArr) => {
+    console.log(`Your perfect plan for your free day is:
+        You'll be on bed until: ${messageArr[0]}.
+        The artist you'll listen to throughout the day is: ${messageArr[1]}.
+        You'll go to: ${messageArr[2]}.
+        You'll end your day with: ${messageArr[3]}.`);
+}
+
+planBuilder(messagePieces);
