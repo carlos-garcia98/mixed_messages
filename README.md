@@ -6,26 +6,18 @@ The topic of the message is: Your perfect plan for your free day.
 
 ## General Information.
 
----
-
 This is a project for the Codecademy's Full-Stack Engineer Career Path.
 
 ## Technologies Used.
-
----
 
 - JavaScript - (ES6).
 - Node.js - 14.17.5
 
 ## Screnshots.
 
----
-
 ![Program Output](./img/mixed_messages_output.png "Program output")
 
 ## Setup.
-
----
 
 Since this program does not have a HTML file, you'll need to download node.js to run it locally.
 
