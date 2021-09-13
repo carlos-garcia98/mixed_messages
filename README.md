@@ -11,7 +11,6 @@ This is a project for the Codecademy's Full-Stack Engineer Career Path.
 ## Technologies Used.
 
 - JavaScript - (ES6).
-- Node.js - 14.17.5
 
 ## Screenshots.
 
