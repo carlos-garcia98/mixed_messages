@@ -6,7 +6,7 @@ The topic of the message is: Your perfect plan for your free day.
 
 ## General Information.
 
-This is a project for the Codecademy's Full-Stack Engineer Career Path.
+This is a project for the Full-Stack Engineer Career Path in Codecademy.
 
 ## Technologies Used.
 
